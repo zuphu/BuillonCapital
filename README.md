@@ -1,4 +1,4 @@
-# BullionCapital
+# Real Time Chat Application
 socket.io chat application using the express framework
 
 Installation:
