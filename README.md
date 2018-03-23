@@ -1,4 +1,6 @@
 # Real Time Chat Application
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zuphu/ChatApp.svg)](https://greenkeeper.io/)
 socket.io chat application using the express framework
 
 Installation:
